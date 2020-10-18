@@ -1,0 +1,12 @@
+.sidebarC {
+    background-color: #505050;
+    color: white;
+    position: relative;
+
+    .imgText {
+        position: relative;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 12%;
+    }
+}
